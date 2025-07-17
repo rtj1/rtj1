@@ -17,6 +17,7 @@
 > A real-time financial news summarizer using LLaMA 2 and GPT-4o, deployed with FastAPI and Streamlit.
 - Pulls live financial news via API
 - Extracts structured insights: KPI, sentiment, risk
+- Dockerized FastAPI + Streamlit app for local and cloud deployment
 - JSONL/Parquet export, Prometheus-monitored
 
 ---
