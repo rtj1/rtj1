@@ -13,9 +13,9 @@
 - Self-evaluates and logs reflections for future retrieval
 - Streamlit dashboard for real-time memory trace visualization
 
-### 📊 [Financial Insight Extractor](https://github.com/rtj1/financial-news-summarizer)
+### 📊 [Financial News Summarizer](https://github.com/rtj1/financial-news-summarizer)
 > A real-time financial news summarizer using LLaMA 2 and GPT-4o, deployed with FastAPI and Streamlit.
-- Pulls live financial news via API
+- Uses Hugging Face dataset for financial news ingestion
 - Extracts structured insights: KPI, sentiment, risk
 - Dockerized FastAPI + Streamlit app for local and cloud deployment
 - JSONL/Parquet export, Prometheus-monitored
